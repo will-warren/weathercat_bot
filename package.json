@@ -1,0 +1,29 @@
+{
+  "name": "weathercat_bot",
+  "version": "1.0.0",
+  "description": "weathercat's twitter bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willwile4/weathercat_bot.git"
+  },
+  "keywords": [
+    "weather",
+    "cat"
+  ],
+  "author": "will warren",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/willwile4/weathercat_bot/issues"
+  },
+  "homepage": "https://github.com/willwile4/weathercat_bot#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "eslint": "^5.12.0",
+    "twit": "^2.2.11"
+  }
+}

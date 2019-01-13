@@ -1,2 +1,3 @@
 # weathercat_bot
-A weather forecasting cat bot
+A cat bringing us the most update stories on weather, and how cats react.
+
